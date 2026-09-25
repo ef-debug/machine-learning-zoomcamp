@@ -1,0 +1,5 @@
+{
+  "name": "ML Zoomcamp",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11-bookworm",
+  "postCreateCommand": "pip install jupyter numpy pandas scikit-learn seaborn"
+}
